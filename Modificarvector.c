@@ -26,6 +26,7 @@ int main(){
             fprintf(archivo1,"%d\n",a);
         }
     
+    
     }
     
 
